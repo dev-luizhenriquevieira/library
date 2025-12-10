@@ -1,0 +1,20 @@
+1;O Duque e Eu;Julia Quinn;Romance de época;2000;Arqueiro
+2;O Visconde que Me Amava;Julia Quinn;Romance de época;2000;Arqueiro
+3;Um Perfeito Cavalheiro;Julia Quinn;Romance de época;2001;Arqueiro
+4;Os Segredos de Colin Bridgerton;Julia Quinn;Romance de época;2002;Arqueiro
+5;Para Sir Phillip, Com Amor;Julia Quinn;Romance de época;2003;Arqueiro
+6;O Conde Enfeitiçado;Julia Quinn;Romance de época;2004;Arqueiro
+7;Um Beijo Inesquecível;Julia Quinn;Romance de época;2005;Arqueiro
+8;A Caminho do Altar;Julia Quinn;Romance de época;2006;Arqueiro
+9;A Guerra dos Tronos;George R.R. Martin;Fantasia épica;1996;Suma
+10;A Fúria dos Reis;George R.R. Martin;Fantasia épica;1998;Suma
+11;A Tormenta de Espadas;George R.R. Martin;Fantasia épica;2000;Suma
+12;O Festim dos Corvos;George R.R. Martin;Fantasia épica;2005;Suma
+13;A Dança dos Dragões;George R.R. Martin;Fantasia épica;2011;Suma
+14;A Sociedade do Anel;J.R.R. Tolkien;Fantasia épica;1954;HarperCollins Brasil
+15;As Duas Torres;J.R.R. Tolkien;Fantasia épica;1954;HarperCollins Brasil
+16;O Retorno do Rei;J.R.R. Tolkien;Fantasia épica;1955;HarperCollins Brasil
+17;O Hobbit;J.R.R. Tolkien;Fantasia;1937;HarperCollins Brasil
+18;Orgulho e Preconceito;Jane Austen;Romance clássico;1813;Diversas editoras
+19;O Nome do Vento;Patrick Rothfuss;Fantasia épica;2007;Arqueiro
+20;Pilares da terra;Ken Follet;Romance;1989;Rocoo
