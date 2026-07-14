@@ -21,7 +21,8 @@ Certifique-se de ter um compilador C (como o GCC) instalado em sua máquina.
 
 ### Passo 1: Clonar o repositório
 ```bash
-git clone https://github.com
+git clone https://github.com/dev-luizhenriquevieira/library.git
+
 cd library
 ```
 
